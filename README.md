@@ -1,16 +1,15 @@
-## Hi there 👋
+Hi, I'm Nikhitha 👋
 
-<!--
-**Nikhitha-Kodaparthi/Nikhitha-Kodaparthi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BTech CSE (2nd Year)  
+💻 Aspiring Software Engineer  
+📍 Hyderabad, India  
 
-Here are some ideas to get you started:
+🔧 Skills
+- Python
+- C, Java
+- Data Structures & Algorithms
+- HTML, CSS (Basics)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Currently Learning
+- Problem Solving
+- DSA
