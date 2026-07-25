@@ -1,6 +1,6 @@
 Hi, I'm Nikhitha 👋
 
-🎓 BTech CSE (2nd Year)  
+🎓 BTech CSE (3rd Year)  
 💻 Aspiring Software Engineer  
 📍 Hyderabad, India  
 
